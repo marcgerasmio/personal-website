@@ -98,7 +98,7 @@ function Projects() {
       <section 
         id="projects" 
         ref={sectionRef}
-        className="py-20 md:py-32 opacity-0 transition-opacity duration-1000"
+        className="md:py-12 opacity-0 transition-opacity duration-1000"
         style={{ background: 'var(--bg-color)' }}
       >
         <div className="container mx-auto px-4 md:px-6">

@@ -103,7 +103,6 @@ function Hero() {
             </div>
             
             <div className="mt-16 flex items-center gap-4">
-              <span className="text-gray-500 dark-text-gray">Scroll Down</span>
               <div className="w-6 h-10 border-2 rounded-full flex justify-center" style={{ borderColor: 'var(--border-color)' }}>
                 <div className="w-1.5 h-1.5 rounded-full mt-2 animate-scroll-down" style={{ background: 'var(--border-color)' }}></div>
               </div>
